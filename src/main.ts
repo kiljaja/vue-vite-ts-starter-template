@@ -1,6 +1,6 @@
-/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
 import { createApp } from 'vue'
-// eslint-disable-next-line import/extensions
+// eslint-disable-next-line import/no-unresolved
 import router from './router'
 import App from './App.vue'
 import './index.css'
