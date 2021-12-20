@@ -1,7 +1,6 @@
 <script setup lang="ts">
-  import { ref } from 'vue';
-
-  defineProps<{ msg: string }>();
+// eslint-disable-next-line no-undef
+defineProps<{ msg: string }>()
 </script>
 
 <template>
