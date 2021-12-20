@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from '../modules/HelloWorld.vue'
+import ModuleExample from '../modules/ModuleExample/ModuleExample.vue'
 </script>
 
 <template>
-  <HelloWorld msg="Hello World" />
+  <ModuleExample msg="Hello World" />
 </template>
 
 <style></style>
