@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "deque-systems.vscode-axe-linter",
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss"
+  ]
+}
