@@ -8,4 +8,4 @@
   <h1>{{ msg }}</h1>
 </template>
 
-<style></style>
+<style lang="postcss"></style>
