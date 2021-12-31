@@ -1,6 +1,12 @@
 <script setup lang="ts">
-// eslint-disable-next-line no-undef
-defineProps<{ msg: string }>()
+  import { defineProps } from 'vue'
+
+  const props = defineProps({
+    msg: {
+      type: String,
+      default: '',
+    },
+  })
 </script>
 
 <template>

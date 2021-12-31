@@ -1,5 +1,5 @@
 import { mount } from '@vue/test-utils'
-import {describe, expect, it} from '@jest/globals'
+import { describe, expect, it } from '@jest/globals'
 import ModuleExample from './ModuleExample.vue'
 
 describe('ModuleExample', () => {

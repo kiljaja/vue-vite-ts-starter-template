@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import ModuleExample from '../modules/ModuleExample/ModuleExample.vue'
+  import ModuleExample from '@/modules/ModuleExample/ModuleExample.vue'
 </script>
 
 <template>
